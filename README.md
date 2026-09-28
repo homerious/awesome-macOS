@@ -236,7 +236,7 @@
 - [Pandan](https://apps.apple.com/app/id1569600264) - Time awareness in your menu bar. ![Freeware][Freeware Icon]
 - [Paste](http://pasteapp.me) - The new way to copy & paste for Mac.
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - A nice tool for tagging and archiving tasks. [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver)
-- [PinSlip](https://pinslip.app/) - Capture now, organize later. Local-first sticky note desktop app with Markdown support, Git sync, and built-in MCP server.
+- [PinSlip](https://pinslip.app/) - Capture now, organize later. Local-first sticky note desktop app with Markdown support, Git sync, and built-in MCP server.[![Open-Source Software][OSS Icon]](https://github.com/homerious/pinslip) ![Freeware][Freeware Icon] 
 - [PopClip](http://pilotmoon.com/popclip/) - Instantly copy & paste, access actions like search, spelling, dictionary and more.
 - [Presentify](https://presentify.compzets.com) - Annotate anything on screen, be it, images, pdfs, videos, code, etc.
 - [Qbserve](https://qotoqot.com/qbserve/) - Automatic time and project tracking, timesheets, invoicing, and real-time productivity feedback.
